@@ -1,0 +1,20 @@
+1) PubMed
+	a) Vibrio cholera type 6
+	b) 103
+	c) 0, MeSH terms are terms that match the Medical Subject Headings. It is used to categorize publications based on subject matter, content and field of study. Reterns 11253 results, MeSH terms are "Vibrio cholera"
+	d) 4156 full free text, 718 reviews
+2) Nucleotide
+	a) Saccharomyces cerevisiae, TaxId: 4932
+	b) 85612 sequences
+	c) 3657 added in last 12 months
+3) OMIM, NCBIGene, and Gene Expression
+	CNR1: Cannibinoid receptor 1
+	a) Cytogenic: 6q14-q15. Coordinate: 88139864..88166745, complement
+	b) Mood disorders, chronic bowel disorders, abnormal cell and body stress responses
+	c) See attached PDF
+4)  Variation
+	a) dvSNP is all short nucleotide variations such as SNPs and short INDELs , dbVar is all large scale variations such as rearrangements and INDELs of genomic regions
+	b) ClinVar
+5) UCSC Genome Browser
+	a) None
+	b)
