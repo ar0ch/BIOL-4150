@@ -1,0 +1,55 @@
+########################################
+# Program: water
+# Rundate: Sun  6 Sep 2015 13:02:51
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20150906-130250-0537-36684006-es.asequence
+#    -bsequence emboss_water-I20150906-130250-0537-36684006-es.bsequence
+#    -datafile EBLOSUM30
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_015155.1
+# 2: EHJ01201.1
+# Matrix: EBLOSUM30
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 183
+# Identity:      42/183 (23.0%)
+# Similarity:    71/183 (38.8%)
+# Gaps:          52/183 (28.4%)
+# Score: 199.5
+# 
+#
+#=======================================
+
+NP_015155.1        6 NLLFGGVKTSEDPTGLTGNGASNTNDSNKGSEPVVAGN--------FFPR     47
+                     |.:|.|..:.|       ...|...|.....||:  |:        |...
+EHJ01201.1        18 NKMFIGRNSQE-------VSISIYFDFKTIEEPI--GDNHLRQQKQFILE     58
+
+NP_015155.1       48 TLSKFNGHDDEKIFIAIRGKVYDCT------RGRQFYGPSGP--YTNFAG     89
+                     .||.::|.:.:..::|:.|.|||.:      .|:.|...:|:  .:.|..
+EHJ01201.1        59 ELSQYDGSNGKSAYVAVDGIVYDLSNVEAWAGGKHFGLTAGKDLTSEFNS    108
+
+NP_015155.1       90 H--------DASR-GLALNS--FDLDVI-------------KDWDQPIDP    115
+                     |        |..: |:.:.|  .::|.|             .||.:.|.|
+EHJ01201.1       109 HHGIKKVLNDKPKVGILIESKQKNMDSIARLTLADTYDFSPDDWIEYIMP    158
+
+NP_015155.1      116 L-DDLTKEQIDALDEWQEHFENKYPCIGTLIPE    147
+                     | |:..:|:...:..  ||:..||..||.|:.:
+EHJ01201.1       159 LVDNALEEATGGVSL--EHLFQKYIMIGILVGQ    189
+
+
+#---------------------------------------
+#---------------------------------------
